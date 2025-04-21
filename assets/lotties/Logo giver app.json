@@ -1,0 +1,141 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/vhosts/onlineconvert.com/onlineconvert.convertserver.com/run/6arps492rqr3r6onqodbc1gm64/WWJ0YiB0dmlyZSBuY2M=_67c3b019baf5a.svg",
+    "permissions": 644,
+    "format": "SVG",
+    "formatDescription": "Scalable Vector Graphics",
+    "mimeType": "image/svg+xml",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 794,
+      "height": 1123,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 96,
+      "y": 96
+    },
+    "printSize": {
+      "x": 8.27083,
+      "y": 11.6979
+    },
+    "units": "Undefined",
+    "type": "GrayscaleAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 891662,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 65535,
+        "mean": 65164.8,
+        "standardDeviation": 4155.84,
+        "kurtosis": 173.671,
+        "skewness": -13.1938,
+        "entropy": 0.0088521
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 65041.4,
+        "standardDeviation": 5541.12,
+        "kurtosis": 129.011,
+        "skewness": -11.3934,
+        "entropy": 0.0118028
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 65041.4,
+        "standardDeviation": 5541.12,
+        "kurtosis": 129.011,
+        "skewness": -11.3934,
+        "entropy": 0.0118028
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 65041.4,
+        "standardDeviation": 5541.12,
+        "kurtosis": 129.011,
+        "skewness": -11.3934,
+        "entropy": 0.0118028
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFFFFFFFFFF",
+    "borderColor": "#DFDFDFDFDFDFFFFF",
+    "matteColor": "#BDBDBDBDBDBDFFFF",
+    "transparentColor": "#0000000000000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 794,
+      "height": 1123,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2025-03-02T01:10:49+00:00",
+      "date:modify": "2025-03-02T01:10:49+00:00",
+      "date:timestamp": "2025-03-02T01:10:49+00:00",
+      "signature": "72c0bb0838a5cb0fa92ace41fc64053a61dc501723d4d94dca0550255beb7b4e"
+    },
+    "artifacts": {
+      "filename": "/var/www/vhosts/onlineconvert.com/onlineconvert.convertserver.com/run/6arps492rqr3r6onqodbc1gm64/WWJ0YiB0dmlyZSBuY2M=_67c3b019baf5a.svg"
+    },
+    "tainted": false,
+    "filesize": "4317B",
+    "numberPixels": "891662",
+    "pixelsPerSecond": "30.3395MB",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.029",
+    "version": "ImageMagick 6.9.13-17 Q16 x86_64 18482 https://legacy.imagemagick.org"
+  }
+}
+]
